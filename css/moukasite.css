@@ -1,0 +1,35 @@
+
+.card-body {
+	color: black;
+	font-size: 14px;
+	height: 100px;
+}  
+.card:hover {
+	color: black;
+	font-size: 14px;
+	text-decoration: none;
+	box-shadow: 1px 1px 8px black;
+}  
+.price {
+	background-color:#F3F3F3;
+	padding-top: 5px;
+	height: 32px;
+	border: 7px;
+}   
+.price:hover {
+	background-color:#25363F;
+	padding-top: 5px;
+	height: 32px;
+	border: 7px;
+	color: white;
+}   
+#btn span{
+	margin-right: 20px;
+	text-decoration: none;
+}
+#btn span:hover {
+	margin-right: 20px;
+	text-decoration: none;
+	background-color: #25363F; 
+	color: white;
+}
